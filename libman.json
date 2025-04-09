@@ -1,0 +1,6 @@
+{
+  "provider": "cdnjs",
+  "library": "bootstrap@5.3.3",
+  "destination": "wwwroot/lib/bootstrap"
+}
+   
